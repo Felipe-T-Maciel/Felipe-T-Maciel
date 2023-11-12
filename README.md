@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there, I'm Felipe 👋
 
-<!--
-**Felipe-T-Maciel/Felipe-T-Maciel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning Java and Python
+- 👯 I’m looking to collaborate on My Projects
+- 💬 Ask me about Gym and Soccer
+- 📫 How to reach me: felipebollauf@gmail.com
+<br>
 
-Here are some ideas to get you started:
+  ### 🛠️ GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/Felipe-T-Maciel">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Felipe-T-Maciel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Felipe-T-Maciel&layout=compact&langs_count=8&theme=tokyonight"/>
+<div>
+  
+<div> 
+  <a href="https://instagram.com/__fenipee" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:felipebollauf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+</div>
