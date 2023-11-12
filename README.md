@@ -1,6 +1,6 @@
 ### Hi there, I'm Felipe 👋
 
-- 🌱 I’m currently learning Java and Python
+- 🌱 I’m currently learning FullStack
 - 👯 I’m looking to collaborate on My Projects
 - 💬 Ask me about Gym and Soccer
 - 📫 How to reach me: felipebollauf@gmail.com
