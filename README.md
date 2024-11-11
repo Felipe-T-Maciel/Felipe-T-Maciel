@@ -1,5 +1,6 @@
-### Hi there, I'm Felipe 👋
+### Hello world, I'm Felipe 👋
 
+- 💻 Software Engineer 👨‍💻
 - 🌱 I’m currently learning FullStack
 - 💬 Ask me about Projects and Ideas 🤑💸
 - 📫 How to reach me: felipebollauf@gmail.com
